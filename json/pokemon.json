@@ -1,0 +1,20 @@
+{
+  "title": "Pokémon",
+  "seasons": [
+    { "identifier": 1,
+      "videoFormat": "mp4",
+      "episodesLink": [
+        { "001": "Pokémon Eu Escolho Você!",
+          "002": "Emergência Pokémon!",
+          "003": "Ash Pega Um Pokémon!"
+        }
+    ]
+    },
+    { "identifier": 2,
+      "videoFormat": "mp4",
+      "episodesLink": [
+        { "001": "teste" }
+    ]
+    }
+  ]
+}
